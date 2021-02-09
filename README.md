@@ -43,7 +43,7 @@ which leads to complications when scrolling and layout.
 
 So in conclusion, RecyclerView is a more flexible, it give us a lot of control but it's complex tool to use. Instead of the ListView which is easier to use but we have much less control on it.
 
-![Recycler_VS_List](https://github.com/Thomas-Julien-SAHUT/JetpackDebut/blob/main/Recycler_VS_List.png)
+![ListView_VS_RecyclerView](https://github.com/Thomas-Julien-SAHUT/JetpackDebut/blob/main/ListView_VS_RecyclerView.png)
 
 # What I know from Jetpack : 
 
