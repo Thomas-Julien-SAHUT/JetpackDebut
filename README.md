@@ -59,4 +59,4 @@ Jetpack libraries release : https://developer.android.com/jetpack/androidx/versi
 AlloCiné is a company of French origin providing online cinematographic services and information.
 We can use their website to find some informations from :  movies, theaters, series, actors, director,...
 I used their api : API AlloCiné v3
-You can find a example of this here : https://wiki.gromez.fr/dev/api/allocine_v3
+You can find a example of this here : https://github.com/gromez/allocine-api
